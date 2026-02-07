@@ -44,7 +44,7 @@ Create a new wiki system using Express.js and CouchDB.
 - **System Configuration**: Global settings for site name, logo, and integration keys.
 
 ## Development Environment
-- **Database (CouchDB)**: `127.0.0.1:5984`
+- **Database (CouchDB)**: `127.0.0.1:5984` (User: `admin`, Password: `password`)
 - **Web Client Assets**: `/` (index.html, css, js)
 - **API Endpoint**: `/api`
 - **Testing URL**: `http://127.0.0.1:5111`
